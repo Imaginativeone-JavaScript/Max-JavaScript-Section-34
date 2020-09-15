@@ -1,0 +1,11 @@
+Section 34: Bonus: TypeScript Introduction 0 / 10|1hr | 15min
+- [ ] 555. Module Introduction | 1min
+- [ ] 556. What is TypeScript and Why would you use it? | 5min
+- [ ] 557. Working with Types | 10min
+- [ ] 558. Core Types & Diving Deeper | 17min
+- [ ] 559. Object Types, Array Types & Function Types | 9min
+- [ ] 560. Advanced Types (Literal Types, Union Types, Enums) | 9min
+- [ ] 561. Classes & Interfaces | 12min
+- [ ] 562. Generic Types | 5min
+- [ ] 563. Configuring the TypeScript Compiler | 5min
+- [ ] 564. Useful Resources & Links | 1min
